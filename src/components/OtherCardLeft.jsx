@@ -1,7 +1,7 @@
 import React from 'react'
 import thumb from '../assets/thumbs-up-sign.svg'
 import nerd from '../assets/nerd-face.svg'
-import eyes from '../assets/Pngitem_283125.png'
+import eyes from '../assets/eye.png'
 import {BsTwitter , BsFacebook, BsInstagram, BsTwitch,BsGithub,BsMastodon} from 'react-icons/bs'
 
 export default function OtherCardLeft() {
